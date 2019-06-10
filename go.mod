@@ -4,8 +4,8 @@ require (
 	github.com/agext/levenshtein v1.2.2 // indirect
 	github.com/apparentlymart/go-cidr v1.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/aws/aws-sdk-go v1.19.46 // indirect
-	github.com/blang/semver v0.0.0-20190414102917-ba2c2ddd8906 // indirect
+	github.com/aws/aws-sdk-go v1.19.47 // indirect
+	github.com/blang/semver/v3 v3.6.1 // indirect
 	github.com/golang/mock v1.3.1
 	github.com/hashicorp/go-getter v1.3.0 // indirect
 	github.com/hashicorp/go-hclog v0.9.2 // indirect
@@ -26,7 +26,7 @@ require (
 	github.com/ulikunitz/xz v0.5.6 // indirect
 	golang.org/x/crypto v0.0.0-20190609194556-f99c8df09eb5 // indirect
 	golang.org/x/net v0.0.0-20190609194556-461777fb6f67 // indirect
-	golang.org/x/sys v0.0.0-20190609194556-301114b31cce // indirect
+	golang.org/x/sys v0.0.0-20190610203952-93c9922d18ae // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	google.golang.org/genproto v0.0.0-20190609194556-eb0b1bdb6ae6 // indirect
 )
